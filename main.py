@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 
-genai.configure(api_key="AIzaSyBHlgoNaJy0fg89UtNrQFFOL1Prznd6URI")
+genai.configure(api_key="write your GeminiAi-APIKEY")
 
 
 st.set_page_config(
