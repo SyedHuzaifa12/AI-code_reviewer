@@ -91,9 +91,8 @@ This makes debugging faster, clearer, and more efficient.
 
 📁 **AI-Code-Reviewer-Debugger**
 
-• app.py → Streamlit application  
-• prompts/ → Prompt templates  
-• utils/ → Helper functions  
+• main.py → Streamlit application  
+• Genaiapp_vid.mp4 → Demo video of application 
 • requirements.txt → Dependencies  
 • README.md → Project documentation  
 
