@@ -122,7 +122,7 @@ AI Code Reviewer & Debugger helps:
 🐞 Reduce debugging time  
 🤝 Act as an AI pair-programmer  
 
-It demonstrates how Generative AI can be applied to **developer productivity tools**.
+It demonstrates how Generative AI can be applied to **Developer productivity tools**.
 
 ---
 
