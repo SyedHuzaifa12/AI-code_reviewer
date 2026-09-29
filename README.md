@@ -2,7 +2,7 @@
 
 An AI-powered web application that reviews Python code, detects bugs, suggests improvements, and provides corrected code using Generative AI.
 
----
+--- 
 
 ## ⭐ Overview
 
