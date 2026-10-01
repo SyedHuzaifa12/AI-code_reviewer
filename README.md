@@ -23,7 +23,7 @@ Developers often face challenges such as:
 
 Manual code review is slow and error-prone.  
 This project automates the review and debugging process using **LLM-powered intelligence**.
-
+ 
 ---
 
 ## ⚡ Key Features
